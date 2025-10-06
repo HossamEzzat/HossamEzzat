@@ -8,7 +8,7 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 <h3>🚀 About Me</h3> 
-<h4> I am a junior mobile application developer who can work with a team. I always strive to develop myself and
+<h4> I am  mobile application developer who can work with a team. I always strive to develop myself and
 learn new technologies. I can develop applications using Flutter and Native Framework, and my applications
 are responsive and high-performance. I have knowledge about SDLC, SOLID, clean code, MVC, REST API,
 Firebase, and SQLite </h4>
