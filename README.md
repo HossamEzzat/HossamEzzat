@@ -31,12 +31,6 @@ I build high-performance, clean-architecture mobile apps and I also mentor Flutt
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HossamEzzat&layout=compact&theme=tokyonight" height="160" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <!-- Streak & Activity -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HossamEzzat&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=HossamEzzat&theme=react-dark&hide_border=true" width="650" alt="Contribution Graph" />
-</p>
-
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
