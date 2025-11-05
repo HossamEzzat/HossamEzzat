@@ -37,14 +37,6 @@ I build high-performance, clean-architecture mobile apps and I also mentor Flutt
   <img src="https://activity-graph.herokuapp.com/graph?username=HossamEzzat&theme=react-dark&hide_border=true" width="650" alt="Contribution Graph" />
 </p>
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
-
-<h3>🚀 About Me</h3> 
-<h4> I am  mobile application developer who can work with a team. I always strive to develop myself and
-learn new technologies. I can develop applications using Flutter and Native Framework, and my applications
-are responsive and high-performance. I have knowledge about SDLC, SOLID, clean code, MVC, REST API,
-Firebase, and SQLite </h4>
-
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
