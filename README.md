@@ -1,6 +1,6 @@
 <p align="center">
-  <!-- Typing animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&duration=2600&pause=800&color=FF2D95&center=true&vCenter=true&lines=Hi+👋,+Iam+Hossam+Ezzat;Flutter+Mobile+App+Developer;build+high-performance+apps+🚀" alt="Typing SVG" />
+  <!-- Typing animation --> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&duration=2600&pause=800&color=FF2D95&center=true&vCenter=true&lines=Hi+👋,I am Hossam Ezzat; Flutter Developer🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
