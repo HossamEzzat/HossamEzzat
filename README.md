@@ -1,16 +1,4 @@
 
-<p align="center">
-  <!-- Banner (upload banner.png to your repo root and uncomment next line if you want it visible) -->
-  <!-- <img src="./banner.png" alt="Hossam Ezzat Banner" width="100%" /> -->
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Play-0F9D58?style=for-the-badge&logo=google-play&logoColor=white" />
-</p>
 ## 👋 About Me
 Hi, I'm **Hossam Ezzat** — Software Enginner and Mobile App Developer.  
 I build high-performance, clean-architecture mobile apps and I also mentor Flutter students to build production-ready projects.
