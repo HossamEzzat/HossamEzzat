@@ -15,13 +15,14 @@
 Hi, I'm **Hossam Ezzat** — Software Enginner and Mobile App Developer.  
 I build high-performance, clean-architecture mobile apps and I also mentor Flutter students to build production-ready projects.
 
-- 🔭 I’m currently building & maintaining mobile apps on Google Play  
-- 🌱 Learning advanced performance & clean-architecture patterns  
-- 👨‍🏫 Experienced Flutter Instructor & Mentor  
-- 📫 Reach me: **hossamezzat199@gmail.com**  
-- 🔗 LinkedIn: https://www.linkedin.com/in/hossam-ezzat-77245b204/
+- 🌱 I’m currently learning **Asp.net and Testing**
+
+- 👨‍💻 All of my projects are available at [https://hossamezzat.github.io/hossam_portfolio_elon/](https://hossamezzat.github.io/hossam_portfolio_elon/)
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1kTqQxUaHYtLhQ-lkXxpglFfo7LvofIiP/view?usp=sharing](https://drive.google.com/file/d/1kTqQxUaHYtLhQ-lkXxpglFfo7LvofIiP/view?usp=sharing) 
+
 - ## 🚀 Tech & Tools
-**Flutter • Dart • Firebase • REST API • SQLite • Bloc/Cubit • Provider • Git • Android Studio • VSCode**
+**Flutter • Dart • Firebase • REST API • SQLite/hive/sharedPreference • Bloc/Cubit/provider/Getx/riverpod • Provider • Git • Android Studio • VSCode**
  ### 🔗Contact Me
 [![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100068842395368)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:hossamezzat199@gmail.com)](mailto:hossamezzat199@gmail.com)
@@ -37,11 +38,7 @@ I build high-performance, clean-architecture mobile apps and I also mentor Flutt
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hossamezzat" alt="hossamezzat" /></a> </p>
 
-- 🌱 I’m currently learning **Asp.net and Testing**
 
-- 👨‍💻 All of my projects are available at [https://hossamezzat.github.io/hossam_portfolio_elon/](https://hossamezzat.github.io/hossam_portfolio_elon/)
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kTqQxUaHYtLhQ-lkXxpglFfo7LvofIiP/view?usp=sharing](https://drive.google.com/file/d/1kTqQxUaHYtLhQ-lkXxpglFfo7LvofIiP/view?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
