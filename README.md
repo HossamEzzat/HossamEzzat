@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Google_Play-0F9D58?style=for-the-badge&logo=google-play&logoColor=white" />
 </p>
 ## 👋 About Me
-Hi, I'm **Hossam Ezzat** — Flutter Mobile App Developer.  
+Hi, I'm **Hossam Ezzat** — Software Enginner and Mobile App Developer.  
 I build high-performance, clean-architecture mobile apps and I also mentor Flutter students to build production-ready projects.
 
 - 🔭 I’m currently building & maintaining mobile apps on Google Play  
