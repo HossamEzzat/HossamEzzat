@@ -7,7 +7,6 @@ I build high-performance, clean-architecture mobile apps and I also mentor Flutt
 
 - 👨‍💻 All of my projects are available at [https://hossamezzat.github.io/hossam_portfolio_elon/](https://hossamezzat.github.io/hossam_portfolio_elon/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kTqQxUaHYtLhQ-lkXxpglFfo7LvofIiP/view?usp=sharing](https://drive.google.com/file/d/1kTqQxUaHYtLhQ-lkXxpglFfo7LvofIiP/view?usp=sharing) 
 
 - ## 🚀 Tech & Tools
 **Flutter • Dart • Firebase • REST API • SQLite/hive/sharedPreference • Bloc/Cubit/provider/Getx/riverpod • Provider • Git • Android Studio • VSCode**
